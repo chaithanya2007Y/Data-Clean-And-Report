@@ -1,0 +1,321 @@
+OrderID,Region,Product,SalesRep,UnitsSold,UnitPrice,OrderDate
+1166, East ,Tablet,Eva,10.0,1000.0,2024-02-15
+1190,,Tablet,Bob,,500.0,2024-02-30
+1007,north,,Alice,,1000.0,2024-02-30
+1065,north,laptop,David,3.0,250.0,2024-01-05
+1098,East,,,10.0,1000.0,2024-01-05
+1197,South,,Charlie,-1.0,,2024-02-15
+1299,SOUTH,MOBILE,Eva,1.0,750.0,2024-01-05
+1128,SOUTH,Laptop,David,-1.0,1000.0,2024-01-05
+1160,,MOBILE,Eva,5.0,750.0,2024-01-05
+1084,West,Tablet,David,1.0,750.0,2024-02-30
+1240,East,Laptop,,-1.0,250.0,2024/01/06
+1067,East,MOBILE,Charlie,2.0,1000.0,2024-02-30
+1099,West,,Alice,5.0,500.0,2024-02-15
+1180,,Laptop,Alice,,,2024/01/06
+1231, East ,Tablet,Alice,,750.0,2024/01/06
+1029,North,laptop,Charlie,5.0,250.0,2024-01-05
+1094,West,Mobile,Alice,1.0,500.0,2024-02-15
+1282, East ,laptop,David,10.0,250.0,2024-02-15
+1185,East,Headphones,Bob,10.0,,
+1174, East ,MOBILE,David,3.0,1000.0,2024-02-30
+1256,North,laptop,Eva,10.0,750.0,
+1292,,Laptop,Alice,3.0,750.0,2024-01-05
+1286,South,Mobile,Charlie,2.0,500.0,2024-02-30
+1013,South,laptop,,2.0,,
+1003,North,laptop,Bob,,,2024-02-15
+1141,SOUTH,Headphones,Eva,10.0,750.0,2024-02-15
+1078,West,Headphones,Charlie,3.0,250.0,05-01-2024
+1169,North,,,-1.0,750.0,2024-02-30
+1030,SOUTH,,Charlie,2.0,250.0,2024/01/06
+1244,South,Headphones,Eva,2.0,,2024-01-05
+1068, East ,laptop,Alice,1.0,250.0,
+1193,North,Mobile,Eva,10.0,750.0,2024-01-05
+1106,East,MOBILE,Bob,1.0,1000.0,2024-02-15
+1106,East,MOBILE,Bob,1.0,1000.0,2024-02-15
+1175,North,Headphones,Alice,3.0,750.0,05-01-2024
+1194,,Laptop,Eva,5.0,250.0,
+1035,,Laptop,Bob,2.0,250.0,05-01-2024
+1151,North,Tablet,David,1.0,250.0,2024-02-15
+1154,South,laptop,David,10.0,,2024-02-30
+1010,West,,Charlie,1.0,500.0,2024-01-05
+1060,East,Tablet,Alice,2.0,750.0,05-01-2024
+1214,SOUTH,Mobile,,2.0,,05-01-2024
+1241,North,Tablet,Bob,10.0,750.0,2024-01-05
+1118,North,MOBILE,Eva,1.0,750.0,2024/01/06
+1242,East,Tablet,Alice,2.0,1000.0,2024-02-30
+1289,SOUTH,,,3.0,500.0,2024-02-15
+1109, East ,Headphones,Alice,3.0,750.0,2024-02-15
+1192,,MOBILE,David,5.0,500.0,2024-02-15
+1257,South,Headphones,Charlie,-1.0,1000.0,
+1066, East ,,Charlie,1.0,250.0,05-01-2024
+1183,East,Headphones,,3.0,,
+1012,SOUTH,Tablet,Bob,,750.0,
+1275, East ,Mobile,Bob,5.0,,
+1089,north,Headphones,Eva,-1.0,250.0,05-01-2024
+1127,North,Tablet,Eva,5.0,750.0,2024-01-05
+1077,SOUTH,Tablet,Bob,2.0,250.0,
+1215,East,MOBILE,Alice,,250.0,05-01-2024
+1074,North,Mobile,,3.0,1000.0,
+1041,South,Laptop,,5.0,750.0,2024-02-15
+1011, East ,Tablet,David,,750.0,2024/01/06
+1179,north,laptop,Bob,3.0,1000.0,
+1274,north,Tablet,Alice,1.0,1000.0,
+1114,North,Headphones,Eva,10.0,250.0,2024-01-05
+1053,South,,Bob,1.0,,2024-01-05
+1226,West,MOBILE,Alice,,1000.0,
+1152,,Laptop,Eva,,250.0,2024/01/06
+1091,SOUTH,Headphones,David,5.0,500.0,2024-02-30
+1172,,Laptop,David,3.0,1000.0,05-01-2024
+1002, East ,Laptop,Alice,1.0,500.0,2024/01/06
+1178,,MOBILE,David,-1.0,250.0,2024/01/06
+1258,North,Tablet,Eva,3.0,750.0,2024-01-05
+1058,SOUTH,,Alice,1.0,1000.0,2024-02-30
+1155,West,,Eva,5.0,1000.0,2024-02-15
+1176,South,,David,-1.0,,2024-01-05
+1023, East ,Headphones,Eva,5.0,,05-01-2024
+1216,,Laptop,Eva,3.0,500.0,2024-01-05
+1153,East,,Eva,3.0,250.0,2024/01/06
+1266,West,Headphones,David,5.0,750.0,2024/01/06
+1173,SOUTH,MOBILE,Alice,-1.0,500.0,05-01-2024
+1237,South,,Eva,2.0,,2024/01/06
+1222,SOUTH,Laptop,David,1.0,750.0,2024-02-30
+1189,SOUTH,Tablet,Eva,-1.0,,2024-02-15
+1268,South,Laptop,Bob,2.0,,2024-01-05
+1161,West,Tablet,,3.0,1000.0,2024-01-05
+1054,West,Headphones,Alice,10.0,500.0,2024-02-30
+1004,West,Headphones,Eva,3.0,250.0,2024/01/06
+1290,South,Headphones,David,,750.0,05-01-2024
+1170,North,,Bob,5.0,,
+1140,South,Tablet,Bob,5.0,500.0,05-01-2024
+1264,SOUTH,Laptop,Bob,-1.0,500.0,2024-02-30
+1184,north,Headphones,David,5.0,500.0,2024-02-15
+1163,South,laptop,Bob,,500.0,05-01-2024
+1235,West,MOBILE,,10.0,250.0,2024-01-05
+1104,north,Mobile,Charlie,3.0,750.0,2024-02-30
+1024,North,MOBILE,,1.0,,05-01-2024
+1297,West,MOBILE,David,5.0,,2024-02-30
+1006,South,Laptop,David,1.0,750.0,05-01-2024
+1273,North,Mobile,Charlie,2.0,500.0,05-01-2024
+1147,East,Tablet,Alice,,,2024/01/06
+1020, East ,laptop,David,3.0,500.0,2024/01/06
+1028,West,Mobile,Charlie,-1.0,500.0,2024-02-30
+1142,SOUTH,Tablet,,5.0,750.0,05-01-2024
+1112,North,Headphones,Charlie,,1000.0,
+1204,East,Laptop,Eva,-1.0,1000.0,2024-02-30
+1279, East ,MOBILE,,5.0,750.0,2024-01-05
+1071,North,Tablet,Bob,,500.0,
+1144,South,MOBILE,Eva,-1.0,500.0,2024/01/06
+1296,SOUTH,MOBILE,Alice,10.0,500.0,2024-01-05
+1250, East ,Laptop,,1.0,,
+1126,north,,,10.0,250.0,2024-02-30
+1064,north,Tablet,Eva,2.0,750.0,2024/01/06
+1014,West,Mobile,David,5.0,750.0,
+1131,north,laptop,Eva,-1.0,1000.0,2024-02-15
+1134,,laptop,Eva,,1000.0,05-01-2024
+1018,,Headphones,,5.0,500.0,05-01-2024
+1085,SOUTH,MOBILE,Alice,,750.0,2024-02-30
+1220,SOUTH,,Alice,5.0,250.0,2024/01/06
+1253, East ,Tablet,,3.0,750.0,2024/01/06
+1025,SOUTH,Laptop,Charlie,5.0,500.0,2024-02-15
+1284,South,laptop,,1.0,,2024-02-30
+1103,,MOBILE,Bob,3.0,1000.0,2024-01-05
+1220,SOUTH,,Alice,5.0,250.0,2024/01/06
+1223,South,Headphones,Charlie,,750.0,2024-02-30
+1242,East,Tablet,Alice,2.0,1000.0,2024-02-30
+1120,West,,Alice,10.0,500.0,2024/01/06
+1277, East ,,,1.0,1000.0,2024-01-05
+1069,East,laptop,Alice,-1.0,750.0,2024-02-30
+1188,,,Bob,5.0,,2024-02-15
+1133,West,,Alice,3.0,1000.0,2024/01/06
+1044,West,Mobile,Eva,5.0,500.0,2024-02-15
+1113,East,,David,2.0,,2024-02-30
+1093,SOUTH,Laptop,Bob,,750.0,2024/01/06
+1101,,Mobile,,-1.0,1000.0,2024-02-15
+1005, East ,Tablet,Charlie,2.0,500.0,05-01-2024
+1157,North,laptop,,1.0,500.0,
+1130,East,Headphones,Bob,,,
+1079,SOUTH,MOBILE,Eva,5.0,,05-01-2024
+1115, East ,Mobile,David,2.0,250.0,05-01-2024
+1181,East,Tablet,Eva,1.0,,2024-02-15
+1199,North,laptop,Alice,2.0,750.0,2024/01/06
+1117, East ,Tablet,David,3.0,250.0,2024-02-15
+1127,North,Tablet,Eva,5.0,750.0,2024-01-05
+1280, East ,Laptop,Charlie,2.0,,2024-02-15
+1156,north,,Eva,5.0,750.0,2024-02-30
+1189,SOUTH,Tablet,Eva,-1.0,,2024-02-15
+1198,SOUTH,MOBILE,,-1.0,1000.0,2024-02-30
+1225,West,Headphones,Alice,10.0,,05-01-2024
+1090,north,Mobile,David,-1.0,,2024-02-30
+1272,north,Laptop,Bob,5.0,,2024-01-05
+1123,South,,Bob,3.0,250.0,2024-02-30
+1009,SOUTH,laptop,Bob,,250.0,2024-01-05
+1037,North,Laptop,,,250.0,2024/01/06
+1167,South,laptop,Alice,5.0,750.0,2024-02-30
+1045,East,Tablet,David,2.0,250.0,2024-02-15
+1164,East,Laptop,Alice,2.0,750.0,2024-02-30
+1191, East ,Mobile,David,1.0,750.0,
+1261,West,,David,-1.0,,2024-02-30
+1011, East ,Tablet,David,,750.0,2024/01/06
+1209,north,Headphones,Charlie,2.0,1000.0,2024-02-15
+1048, East ,Laptop,Bob,5.0,250.0,2024-02-15
+1042, East ,Headphones,,1.0,250.0,2024-01-05
+1265, East ,Laptop,Bob,,250.0,2024-01-05
+1159,East,laptop,Alice,2.0,250.0,2024-02-15
+1057,north,Headphones,Bob,,750.0,2024-02-15
+1145,West,MOBILE,David,3.0,,2024-02-30
+1122,,MOBILE,Charlie,-1.0,750.0,2024/01/06
+1182,South,Mobile,Alice,5.0,250.0,
+1105,South,Mobile,Bob,2.0,1000.0,
+1288,,Headphones,Eva,-1.0,,2024-02-15
+1203,West,laptop,David,10.0,500.0,2024/01/06
+1278,,Laptop,Charlie,10.0,1000.0,2024-02-30
+1228,North,Tablet,David,1.0,250.0,2024/01/06
+1291,North,Tablet,Eva,1.0,750.0,2024-02-15
+1001,East,MOBILE,Alice,,,2024-01-05
+1139,,MOBILE,,5.0,1000.0,2024-01-05
+1111,West,Headphones,Bob,3.0,1000.0,2024-02-15
+1213,,,Charlie,-1.0,500.0,2024-02-30
+1262,North,laptop,,-1.0,750.0,2024-01-05
+1107,SOUTH,laptop,David,5.0,250.0,2024/01/06
+1008,South,Headphones,Alice,10.0,750.0,
+1267,SOUTH,Tablet,,3.0,,2024-02-30
+1298,East,Tablet,Charlie,3.0,1000.0,2024-02-15
+1210,South,Mobile,David,10.0,750.0,2024-02-30
+1230,East,Headphones,,1.0,1000.0,2024-02-30
+1021,,Laptop,Alice,-1.0,250.0,2024/01/06
+1295,,laptop,Bob,1.0,1000.0,2024-01-05
+1171,,Tablet,Bob,10.0,1000.0,
+1236,SOUTH,Mobile,Bob,-1.0,,2024/01/06
+1239,north,,Bob,2.0,,05-01-2024
+1119,South,,,1.0,250.0,2024/01/06
+1032,East,Mobile,,5.0,,2024/01/06
+1147,East,Tablet,Alice,,,2024/01/06
+1206,north,Headphones,Charlie,,250.0,2024-02-15
+1078,West,Headphones,Charlie,3.0,250.0,05-01-2024
+1275, East ,Mobile,Bob,5.0,,
+1243,South,MOBILE,Alice,5.0,1000.0,05-01-2024
+1046,South,Laptop,,10.0,250.0,2024-01-05
+1108, East ,Headphones,Eva,,250.0,2024-02-30
+1040,,Mobile,David,-1.0,1000.0,2024/01/06
+1281,SOUTH,Laptop,David,-1.0,250.0,2024/01/06
+1129, East ,Tablet,,-1.0,1000.0,
+1082,SOUTH,Headphones,Eva,10.0,250.0,2024-02-15
+1217,north,Tablet,,5.0,500.0,2024/01/06
+1135,North,Headphones,Charlie,2.0,1000.0,2024/01/06
+1201,East,MOBILE,Charlie,1.0,250.0,05-01-2024
+1285,West,,Charlie,3.0,500.0,2024/01/06
+1110, East ,laptop,,,,2024-02-30
+1266,West,Headphones,David,5.0,750.0,2024/01/06
+1234,north,Mobile,Alice,-1.0,1000.0,2024-01-05
+1036,North,laptop,Eva,2.0,,2024/01/06
+1092,,,,2.0,250.0,05-01-2024
+1186,East,,Alice,3.0,1000.0,05-01-2024
+1232,,Headphones,Bob,-1.0,750.0,2024-01-05
+1062,North,MOBILE,Eva,3.0,250.0,2024/01/06
+1000,South,Laptop,,3.0,500.0,2024/01/06
+1027,South,,,3.0,,2024-02-30
+1100,SOUTH,,David,10.0,,2024-02-15
+1177,,Headphones,Alice,2.0,,05-01-2024
+1187,north,,Alice,3.0,750.0,2024-02-30
+1249,SOUTH,Headphones,Eva,10.0,750.0,2024-02-15
+1148,north,Laptop,Alice,10.0,750.0,
+1063,north,Laptop,Alice,,,2024/01/06
+1039,north,MOBILE,David,2.0,,2024/01/06
+1269,South,Tablet,David,,1000.0,2024-02-15
+1205,West,Headphones,Eva,2.0,500.0,2024-02-15
+1158,West,Tablet,,1.0,500.0,2024/01/06
+1143,north,Mobile,Alice,,500.0,05-01-2024
+1017,West,laptop,,3.0,500.0,
+1059,South,Laptop,Eva,2.0,,05-01-2024
+1165,north,Headphones,Alice,5.0,750.0,
+1245,north,Headphones,,1.0,250.0,2024-02-15
+1070,East,Headphones,Bob,1.0,750.0,05-01-2024
+1259,West,Mobile,,5.0,500.0,2024-01-05
+1208,SOUTH,laptop,Charlie,,1000.0,
+1221,West,,,,1000.0,2024-02-30
+1276,West,laptop,Eva,-1.0,750.0,2024-01-05
+1149,East,MOBILE,David,1.0,250.0,2024-02-30
+1123,South,,Bob,3.0,250.0,2024-02-30
+1055,North,laptop,Alice,5.0,,2024-02-30
+1016,North,,Charlie,5.0,750.0,2024-01-05
+1224, East ,,,3.0,250.0,
+1219,north,,Bob,3.0,1000.0,05-01-2024
+1227,north,MOBILE,David,1.0,500.0,2024-01-05
+1251,West,Headphones,David,2.0,1000.0,05-01-2024
+1200,South,Headphones,Alice,-1.0,250.0,2024-02-15
+1202,North,Tablet,Charlie,3.0,1000.0,2024/01/06
+1294,North,Headphones,Eva,,500.0,05-01-2024
+1073,East,Mobile,Bob,-1.0,500.0,2024-02-15
+1270,,Headphones,Charlie,2.0,,2024-01-05
+1150,north,Headphones,David,5.0,750.0,2024/01/06
+1087,north,laptop,Bob,2.0,1000.0,
+1283,north,MOBILE,Charlie,2.0,750.0,2024/01/06
+1212,North,laptop,,-1.0,250.0,2024-02-30
+1146,north,Laptop,Bob,3.0,500.0,05-01-2024
+1097,North,,Alice,-1.0,1000.0,2024/01/06
+1229,East,Headphones,David,3.0,,2024-02-15
+1125,West,Laptop,Eva,,500.0,2024-01-05
+1061,East,Headphones,Eva,,750.0,2024-02-30
+1081,North,Laptop,Eva,5.0,750.0,
+1029,North,laptop,Charlie,5.0,250.0,2024-01-05
+1056,SOUTH,Tablet,Bob,,750.0,2024/01/06
+1019,East,Mobile,,10.0,,05-01-2024
+1086,north,MOBILE,David,3.0,1000.0,
+1246, East ,Headphones,,1.0,1000.0,
+1137,north,laptop,Alice,10.0,500.0,2024-01-05
+1034,West,MOBILE,Charlie,5.0,750.0,2024-02-15
+1138,West,MOBILE,David,5.0,,2024/01/06
+1254,,Laptop,Alice,-1.0,250.0,2024-01-05
+1076,North,,David,2.0,500.0,2024-02-15
+1026,North,MOBILE,,3.0,,2024/01/06
+1043, East ,MOBILE,Charlie,-1.0,250.0,2024/01/06
+1096, East ,Headphones,David,2.0,500.0,
+1083,West,Tablet,Alice,,1000.0,2024-01-05
+1252,,Headphones,David,,250.0,05-01-2024
+1185,East,Headphones,Bob,10.0,,
+1073,East,Mobile,Bob,-1.0,500.0,2024-02-15
+1248,South,Mobile,Charlie,10.0,,2024-02-30
+1247,,Laptop,Alice,3.0,,2024/01/06
+1233,SOUTH,laptop,,3.0,250.0,2024-02-15
+1271,SOUTH,Headphones,Alice,3.0,,2024-02-15
+1136,SOUTH,,Charlie,3.0,750.0,2024-02-30
+1049,north,,David,3.0,1000.0,
+1207,north,MOBILE,Eva,2.0,250.0,2024-02-15
+1176,South,,David,-1.0,,2024-01-05
+1132, East ,,,10.0,750.0,05-01-2024
+1050,,Mobile,Bob,3.0,500.0,2024-01-05
+1238,West,Tablet,Bob,-1.0,,2024-01-05
+1052,,laptop,Eva,2.0,250.0,2024-02-30
+1080,North,Laptop,Charlie,2.0,,05-01-2024
+1031,South,Laptop,,5.0,250.0,2024-02-30
+1121,East,Headphones,,1.0,,2024/01/06
+1211,north,MOBILE,Charlie,1.0,1000.0,05-01-2024
+1196,north,Tablet,Eva,,1000.0,
+1088, East ,MOBILE,,2.0,,2024-02-30
+1255, East ,Laptop,,,750.0,2024/01/06
+1058,SOUTH,,Alice,1.0,1000.0,2024-02-30
+1033,north,laptop,Eva,5.0,500.0,2024-02-30
+1038,South,Laptop,Charlie,1.0,,2024/01/06
+1051,North,MOBILE,Charlie,1.0,250.0,2024-02-30
+1260,SOUTH,,Eva,3.0,250.0,05-01-2024
+1102,north,,Bob,-1.0,750.0,2024-02-30
+1195,East,Headphones,,2.0,250.0,2024-02-15
+1167,South,laptop,Alice,5.0,750.0,2024-02-30
+1293,South,laptop,Eva,10.0,1000.0,2024-02-15
+1116, East ,Tablet,Bob,5.0,750.0,05-01-2024
+1124,North,Tablet,Eva,,1000.0,2024-02-15
+1218,East,,Eva,3.0,,2024-02-30
+1287,East,,,1.0,500.0,
+1047,West,Mobile,David,5.0,1000.0,2024/01/06
+1213,,,Charlie,-1.0,500.0,2024-02-30
+1122,,MOBILE,Charlie,-1.0,750.0,2024/01/06
+1095,South,Headphones,David,,,2024/01/06
+1162,West,Tablet,,10.0,500.0,2024-02-15
+1263,East,Tablet,,-1.0,750.0,05-01-2024
+1075,West,Tablet,Bob,-1.0,250.0,2024-02-15
+1299,SOUTH,MOBILE,Eva,1.0,750.0,2024-01-05
+1022,East,,,5.0,,2024-01-05
+1072,South,Tablet,Eva,-1.0,1000.0,2024-02-30
+1015,West,MOBILE,Charlie,-1.0,250.0,2024/01/06
+1168,north,Laptop,Alice,2.0,,2024-02-30
